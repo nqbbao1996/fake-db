@@ -2,74 +2,74 @@
   "Electrics": {
     "year": [
       {
-        "power": 98,
-        "sunshine": 60,
+        "production": 980,
+        "consume": 160,
+        "surplus": 703,
+        "buy": 340
+      },
+      {
+        "production": 198,
+        "consume": 260,
+        "surplus": 740,
+        "buy": 350
+      },
+      {
+        "production": 198,
+        "consume": 360,
+        "surplus": 740,
+        "buy": 350
+      },
+      {
+        "production": 98,
+        "consume": 60,
         "surplus": 70,
         "buy": 30
       },
       {
-        "power": 98,
-        "sunshine": 60,
+        "production": 98,
+        "consume": 60,
         "surplus": 70,
         "buy": 30
       },
       {
-        "power": 98,
-        "sunshine": 60,
+        "production": 98,
+        "consume": 60,
         "surplus": 70,
         "buy": 30
       },
       {
-        "power": 98,
-        "sunshine": 60,
+        "production": 98,
+        "consume": 60,
         "surplus": 70,
         "buy": 30
       },
       {
-        "power": 98,
-        "sunshine": 60,
+        "production": 98,
+        "consume": 60,
         "surplus": 70,
         "buy": 30
       },
       {
-        "power": 98,
-        "sunshine": 60,
+        "production": 98,
+        "consume": 60,
         "surplus": 70,
         "buy": 30
       },
       {
-        "power": 98,
-        "sunshine": 60,
+        "production": 98,
+        "consume": 60,
         "surplus": 70,
         "buy": 30
       },
       {
-        "power": 98,
-        "sunshine": 60,
+        "production": 98,
+        "consume": 60,
         "surplus": 70,
         "buy": 30
       },
       {
-        "power": 98,
-        "sunshine": 60,
-        "surplus": 70,
-        "buy": 30
-      },
-      {
-        "power": 98,
-        "sunshine": 60,
-        "surplus": 70,
-        "buy": 30
-      },
-      {
-        "power": 98,
-        "sunshine": 60,
-        "surplus": 70,
-        "buy": 30
-      },
-      {
-        "power": 98,
-        "sunshine": 60,
+        "production": 98,
+        "consume": 60,
         "surplus": 70,
         "buy": 30
       }
@@ -79,96 +79,96 @@
   "month": [
     {
       "1": {
-        "power": 98,
-        "sunshine": 60,
+        "production": 98,
+        "consume": 60,
         "surplus": 70,
         "buy": 30
       }
     },
     {
       "2": {
-        "power": 98,
-        "sunshine": 60,
+        "production": 98,
+        "consume": 60,
         "surplus": 70,
         "buy": 30
       }
     },
     {
       "3": {
-        "power": 98,
-        "sunshine": 60,
+        "production": 98,
+        "consume": 60,
         "surplus": 70,
         "buy": 30
       }
     },
     {
       "4": {
-        "power": 98,
-        "sunshine": 60,
+        "production": 98,
+        "consume": 60,
         "surplus": 70,
         "buy": 30
       }
     },
     {
       "5": {
-        "power": 98,
-        "sunshine": 60,
+        "production": 98,
+        "consume": 60,
         "surplus": 70,
         "buy": 30
       }
     },
     {
       "6": {
-        "power": 98,
-        "sunshine": 60,
+        "production": 98,
+        "consume": 60,
         "surplus": 70,
         "buy": 30
       }
     },
     {
       "7": {
-        "power": 98,
-        "sunshine": 60,
+        "production": 98,
+        "consume": 60,
         "surplus": 70,
         "buy": 30
       }
     },
     {
       "8": {
-        "power": 98,
-        "sunshine": 60,
+        "production": 98,
+        "consume": 60,
         "surplus": 70,
         "buy": 30
       }
     },
     {
       "9": {
-        "power": 98,
-        "sunshine": 60,
+        "production": 98,
+        "consume": 60,
         "surplus": 70,
         "buy": 30
       }
     },
     {
       "10": {
-        "power": 98,
-        "sunshine": 60,
+        "production": 98,
+        "consume": 60,
         "surplus": 70,
         "buy": 30
       }
     },
     {
       "11": {
-        "power": 98,
-        "sunshine": 60,
+        "production": 98,
+        "consume": 60,
         "surplus": 70,
         "buy": 30
       }
     },
     {
       "12": {
-        "power": 98,
-        "sunshine": 60,
+        "production": 98,
+        "consume": 60,
         "surplus": 70,
         "buy": 30
       }
