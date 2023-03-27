@@ -1,698 +1,696 @@
 {
   "Electrics": {
-    "all": {
-      "year": {
-        "2020": [
-          {
-            "month": 1,
-            "production": 572,
-            "consume": 651,
-            "surplus": 630,
-            "buy": 532
-          },
-          {
-            "month": 2,
-            "production": 678,
-            "consume": 511,
-            "surplus": 819,
-            "buy": 715
-          },
-          {
-            "month": 3,
-            "production": 878,
-            "consume": 839,
-            "surplus": 505,
-            "buy": 633
-          },
-          {
-            "month": 4,
-            "production": 386,
-            "consume": 393,
-            "surplus": 201,
-            "buy": 616
-          },
-          {
-            "month": 5,
-            "production": 691,
-            "consume": 162,
-            "surplus": 914,
-            "buy": 228
-          },
-          {
-            "month": 6,
-            "production": 774,
-            "consume": 827,
-            "surplus": 518,
-            "buy": 736
-          },
-          {
-            "month": 7,
-            "production": 481,
-            "consume": 195,
-            "surplus": 818,
-            "buy": 844
-          },
-          {
-            "month": 8,
-            "production": 942,
-            "consume": 438,
-            "surplus": 902,
-            "buy": 683
-          },
-          {
-            "month": 9,
-            "production": 484,
-            "consume": 718,
-            "surplus": 242,
-            "buy": 968
-          },
-          {
-            "month": 10,
-            "production": 442,
-            "consume": 957,
-            "surplus": 521,
-            "buy": 206
-          },
-          {
-            "month": 11,
-            "production": 174,
-            "consume": 981,
-            "surplus": 719,
-            "buy": 790
-          },
-          {
-            "month": 12,
-            "production": 505,
-            "consume": 608,
-            "surplus": 206,
-            "buy": 692
-          }
-        ],
-        "2021": [
-          {
-            "month": 1,
-            "production": 380,
-            "consume": 601,
-            "surplus": 332,
-            "buy": 975
-          },
-          {
-            "month": 2,
-            "production": 770,
-            "consume": 521,
-            "surplus": 448,
-            "buy": 185
-          },
-          {
-            "month": 3,
-            "production": 199,
-            "consume": 776,
-            "surplus": 691,
-            "buy": 471
-          },
-          {
-            "month": 4,
-            "production": 803,
-            "consume": 234,
-            "surplus": 154,
-            "buy": 292
-          },
-          {
-            "month": 5,
-            "production": 502,
-            "consume": 597,
-            "surplus": 171,
-            "buy": 586
-          },
-          {
-            "month": 6,
-            "production": 748,
-            "consume": 434,
-            "surplus": 339,
-            "buy": 327
-          },
-          {
-            "month": 7,
-            "production": 369,
-            "consume": 204,
-            "surplus": 298,
-            "buy": 909
-          },
-          {
-            "month": 8,
-            "production": 614,
-            "consume": 397,
-            "surplus": 662,
-            "buy": 742
-          },
-          {
-            "month": 9,
-            "production": 643,
-            "consume": 193,
-            "surplus": 413,
-            "buy": 132
-          },
-          {
-            "month": 10,
-            "production": 106,
-            "consume": 962,
-            "surplus": 945,
-            "buy": 966
-          },
-          {
-            "month": 11,
-            "production": 398,
-            "consume": 163,
-            "surplus": 801,
-            "buy": 709
-          },
-          {
-            "month": 12,
-            "production": 826,
-            "consume": 737,
-            "surplus": 880,
-            "buy": 643
-          }
-        ],
-        "2022": [
-          {
-            "month": 1,
-            "production": 666,
-            "consume": 573,
-            "surplus": 896,
-            "buy": 767
-          },
-          {
-            "month": 2,
-            "production": 913,
-            "consume": 526,
-            "surplus": 719,
-            "buy": 353
-          },
-          {
-            "month": 3,
-            "production": 901,
-            "consume": 763,
-            "surplus": 326,
-            "buy": 699
-          },
-          {
-            "month": 4,
-            "production": 432,
-            "consume": 548,
-            "surplus": 337,
-            "buy": 483
-          },
-          {
-            "month": 5,
-            "production": 805,
-            "consume": 453,
-            "surplus": 553,
-            "buy": 863
-          },
-          {
-            "month": 6,
-            "production": 575,
-            "consume": 771,
-            "surplus": 353,
-            "buy": 853
-          },
-          {
-            "month": 7,
-            "production": 565,
-            "consume": 189,
-            "surplus": 459,
-            "buy": 423
-          },
-          {
-            "month": 8,
-            "production": 898,
-            "consume": 415,
-            "surplus": 297,
-            "buy": 913
-          },
-          {
-            "month": 9,
-            "production": 925,
-            "consume": 770,
-            "surplus": 774,
-            "buy": 584
-          },
-          {
-            "month": 10,
-            "production": 643,
-            "consume": 988,
-            "surplus": 999,
-            "buy": 213
-          },
-          {
-            "month": 11,
-            "production": 419,
-            "consume": 812,
-            "surplus": 586,
-            "buy": 816
-          },
-          {
-            "month": 12,
-            "production": 148,
-            "consume": 394,
-            "surplus": 979,
-            "buy": 411
-          }
-        ],
-        "2023": [
-          {
-            "month": 1,
-            "production": 899,
-            "consume": 493,
-            "surplus": 509,
-            "buy": 697
-          },
-          {
-            "month": 2,
-            "production": 363,
-            "consume": 545,
-            "surplus": 952,
-            "buy": 611
-          },
-          {
-            "month": 3,
-            "production": 311,
-            "consume": 737,
-            "surplus": 963,
-            "buy": 975
-          },
-          {
-            "month": 4,
-            "production": 677,
-            "consume": 175,
-            "surplus": 201,
-            "buy": 271
-          },
-          {
-            "month": 5,
-            "production": 565,
-            "consume": 488,
-            "surplus": 216,
-            "buy": 922
-          },
-          {
-            "month": 6,
-            "production": 254,
-            "consume": 565,
-            "surplus": 156,
-            "buy": 429
-          },
-          {
-            "month": 7,
-            "production": 477,
-            "consume": 478,
-            "surplus": 379,
-            "buy": 975
-          },
-          {
-            "month": 8,
-            "production": 186,
-            "consume": 935,
-            "surplus": 471,
-            "buy": 118
-          },
-          {
-            "month": 9,
-            "production": 348,
-            "consume": 671,
-            "surplus": 179,
-            "buy": 150
-          },
-          {
-            "month": 10,
-            "production": 818,
-            "consume": 489,
-            "surplus": 729,
-            "buy": 525
-          },
-          {
-            "month": 11,
-            "production": 649,
-            "consume": 349,
-            "surplus": 141,
-            "buy": 227
-          },
-          {
-            "month": 12,
-            "production": 495,
-            "consume": 378,
-            "surplus": 360,
-            "buy": 400
-          }
-        ]
-      },
-      "month": {
-        "2020": [
-          {
-            "month": 1,
-            "production": 572,
-            "consume": 651,
-            "surplus": 630,
-            "buy": 532
-          },
-          {
-            "month": 2,
-            "production": 678,
-            "consume": 511,
-            "surplus": 819,
-            "buy": 715
-          },
-          {
-            "month": 3,
-            "production": 878,
-            "consume": 839,
-            "surplus": 505,
-            "buy": 633
-          },
-          {
-            "month": 4,
-            "production": 386,
-            "consume": 393,
-            "surplus": 201,
-            "buy": 616
-          },
-          {
-            "month": 5,
-            "production": 691,
-            "consume": 162,
-            "surplus": 914,
-            "buy": 228
-          },
-          {
-            "month": 6,
-            "production": 774,
-            "consume": 827,
-            "surplus": 518,
-            "buy": 736
-          },
-          {
-            "month": 7,
-            "production": 481,
-            "consume": 195,
-            "surplus": 818,
-            "buy": 844
-          },
-          {
-            "month": 8,
-            "production": 942,
-            "consume": 438,
-            "surplus": 902,
-            "buy": 683
-          },
-          {
-            "month": 9,
-            "production": 484,
-            "consume": 718,
-            "surplus": 242,
-            "buy": 968
-          },
-          {
-            "month": 10,
-            "production": 442,
-            "consume": 957,
-            "surplus": 521,
-            "buy": 206
-          },
-          {
-            "month": 11,
-            "production": 174,
-            "consume": 981,
-            "surplus": 719,
-            "buy": 790
-          },
-          {
-            "month": 12,
-            "production": 505,
-            "consume": 608,
-            "surplus": 206,
-            "buy": 692
-          }
-        ],
-        "2021": [
-          {
-            "month": 1,
-            "production": 380,
-            "consume": 601,
-            "surplus": 332,
-            "buy": 975
-          },
-          {
-            "month": 2,
-            "production": 770,
-            "consume": 521,
-            "surplus": 448,
-            "buy": 185
-          },
-          {
-            "month": 3,
-            "production": 199,
-            "consume": 776,
-            "surplus": 691,
-            "buy": 471
-          },
-          {
-            "month": 4,
-            "production": 803,
-            "consume": 234,
-            "surplus": 154,
-            "buy": 292
-          },
-          {
-            "month": 5,
-            "production": 502,
-            "consume": 597,
-            "surplus": 171,
-            "buy": 586
-          },
-          {
-            "month": 6,
-            "production": 748,
-            "consume": 434,
-            "surplus": 339,
-            "buy": 327
-          },
-          {
-            "month": 7,
-            "production": 369,
-            "consume": 204,
-            "surplus": 298,
-            "buy": 909
-          },
-          {
-            "month": 8,
-            "production": 614,
-            "consume": 397,
-            "surplus": 662,
-            "buy": 742
-          },
-          {
-            "month": 9,
-            "production": 643,
-            "consume": 193,
-            "surplus": 413,
-            "buy": 132
-          },
-          {
-            "month": 10,
-            "production": 106,
-            "consume": 962,
-            "surplus": 945,
-            "buy": 966
-          },
-          {
-            "month": 11,
-            "production": 398,
-            "consume": 163,
-            "surplus": 801,
-            "buy": 709
-          },
-          {
-            "month": 12,
-            "production": 826,
-            "consume": 737,
-            "surplus": 880,
-            "buy": 643
-          }
-        ],
-        "2022": [
-          {
-            "month": 1,
-            "production": 666,
-            "consume": 573,
-            "surplus": 896,
-            "buy": 767
-          },
-          {
-            "month": 2,
-            "production": 913,
-            "consume": 526,
-            "surplus": 719,
-            "buy": 353
-          },
-          {
-            "month": 3,
-            "production": 901,
-            "consume": 763,
-            "surplus": 326,
-            "buy": 699
-          },
-          {
-            "month": 4,
-            "production": 432,
-            "consume": 548,
-            "surplus": 337,
-            "buy": 483
-          },
-          {
-            "month": 5,
-            "production": 805,
-            "consume": 453,
-            "surplus": 553,
-            "buy": 863
-          },
-          {
-            "month": 6,
-            "production": 575,
-            "consume": 771,
-            "surplus": 353,
-            "buy": 853
-          },
-          {
-            "month": 7,
-            "production": 565,
-            "consume": 189,
-            "surplus": 459,
-            "buy": 423
-          },
-          {
-            "month": 8,
-            "production": 898,
-            "consume": 415,
-            "surplus": 297,
-            "buy": 913
-          },
-          {
-            "month": 9,
-            "production": 925,
-            "consume": 770,
-            "surplus": 774,
-            "buy": 584
-          },
-          {
-            "month": 10,
-            "production": 643,
-            "consume": 988,
-            "surplus": 999,
-            "buy": 213
-          },
-          {
-            "month": 11,
-            "production": 419,
-            "consume": 812,
-            "surplus": 586,
-            "buy": 816
-          },
-          {
-            "month": 12,
-            "production": 148,
-            "consume": 394,
-            "surplus": 979,
-            "buy": 411
-          }
-        ],
-        "2023": [
-          {
-            "month": 1,
-            "production": 899,
-            "consume": 493,
-            "surplus": 509,
-            "buy": 697
-          },
-          {
-            "month": 2,
-            "production": 363,
-            "consume": 545,
-            "surplus": 952,
-            "buy": 611
-          },
-          {
-            "month": 3,
-            "production": 311,
-            "consume": 737,
-            "surplus": 963,
-            "buy": 975
-          },
-          {
-            "month": 4,
-            "production": 677,
-            "consume": 175,
-            "surplus": 201,
-            "buy": 271
-          },
-          {
-            "month": 5,
-            "production": 565,
-            "consume": 488,
-            "surplus": 216,
-            "buy": 922
-          },
-          {
-            "month": 6,
-            "production": 254,
-            "consume": 565,
-            "surplus": 156,
-            "buy": 429
-          },
-          {
-            "month": 7,
-            "production": 477,
-            "consume": 478,
-            "surplus": 379,
-            "buy": 975
-          },
-          {
-            "month": 8,
-            "production": 186,
-            "consume": 935,
-            "surplus": 471,
-            "buy": 118
-          },
-          {
-            "month": 9,
-            "production": 348,
-            "consume": 671,
-            "surplus": 179,
-            "buy": 150
-          },
-          {
-            "month": 10,
-            "production": 818,
-            "consume": 489,
-            "surplus": 729,
-            "buy": 525
-          },
-          {
-            "month": 11,
-            "production": 649,
-            "consume": 349,
-            "surplus": 141,
-            "buy": 227
-          },
-          {
-            "month": 12,
-            "production": 495,
-            "consume": 378,
-            "surplus": 360,
-            "buy": 400
-          }
-        ]
-      }
+    "year": {
+      "2020": [
+        {
+          "month": 1,
+          "production": 572,
+          "consume": 651,
+          "surplus": 630,
+          "buy": 532
+        },
+        {
+          "month": 2,
+          "production": 678,
+          "consume": 511,
+          "surplus": 819,
+          "buy": 715
+        },
+        {
+          "month": 3,
+          "production": 878,
+          "consume": 839,
+          "surplus": 505,
+          "buy": 633
+        },
+        {
+          "month": 4,
+          "production": 386,
+          "consume": 393,
+          "surplus": 201,
+          "buy": 616
+        },
+        {
+          "month": 5,
+          "production": 691,
+          "consume": 162,
+          "surplus": 914,
+          "buy": 228
+        },
+        {
+          "month": 6,
+          "production": 774,
+          "consume": 827,
+          "surplus": 518,
+          "buy": 736
+        },
+        {
+          "month": 7,
+          "production": 481,
+          "consume": 195,
+          "surplus": 818,
+          "buy": 844
+        },
+        {
+          "month": 8,
+          "production": 942,
+          "consume": 438,
+          "surplus": 902,
+          "buy": 683
+        },
+        {
+          "month": 9,
+          "production": 484,
+          "consume": 718,
+          "surplus": 242,
+          "buy": 968
+        },
+        {
+          "month": 10,
+          "production": 442,
+          "consume": 957,
+          "surplus": 521,
+          "buy": 206
+        },
+        {
+          "month": 11,
+          "production": 174,
+          "consume": 981,
+          "surplus": 719,
+          "buy": 790
+        },
+        {
+          "month": 12,
+          "production": 505,
+          "consume": 608,
+          "surplus": 206,
+          "buy": 692
+        }
+      ],
+      "2021": [
+        {
+          "month": 1,
+          "production": 380,
+          "consume": 601,
+          "surplus": 332,
+          "buy": 975
+        },
+        {
+          "month": 2,
+          "production": 770,
+          "consume": 521,
+          "surplus": 448,
+          "buy": 185
+        },
+        {
+          "month": 3,
+          "production": 199,
+          "consume": 776,
+          "surplus": 691,
+          "buy": 471
+        },
+        {
+          "month": 4,
+          "production": 803,
+          "consume": 234,
+          "surplus": 154,
+          "buy": 292
+        },
+        {
+          "month": 5,
+          "production": 502,
+          "consume": 597,
+          "surplus": 171,
+          "buy": 586
+        },
+        {
+          "month": 6,
+          "production": 748,
+          "consume": 434,
+          "surplus": 339,
+          "buy": 327
+        },
+        {
+          "month": 7,
+          "production": 369,
+          "consume": 204,
+          "surplus": 298,
+          "buy": 909
+        },
+        {
+          "month": 8,
+          "production": 614,
+          "consume": 397,
+          "surplus": 662,
+          "buy": 742
+        },
+        {
+          "month": 9,
+          "production": 643,
+          "consume": 193,
+          "surplus": 413,
+          "buy": 132
+        },
+        {
+          "month": 10,
+          "production": 106,
+          "consume": 962,
+          "surplus": 945,
+          "buy": 966
+        },
+        {
+          "month": 11,
+          "production": 398,
+          "consume": 163,
+          "surplus": 801,
+          "buy": 709
+        },
+        {
+          "month": 12,
+          "production": 826,
+          "consume": 737,
+          "surplus": 880,
+          "buy": 643
+        }
+      ],
+      "2022": [
+        {
+          "month": 1,
+          "production": 666,
+          "consume": 573,
+          "surplus": 896,
+          "buy": 767
+        },
+        {
+          "month": 2,
+          "production": 913,
+          "consume": 526,
+          "surplus": 719,
+          "buy": 353
+        },
+        {
+          "month": 3,
+          "production": 901,
+          "consume": 763,
+          "surplus": 326,
+          "buy": 699
+        },
+        {
+          "month": 4,
+          "production": 432,
+          "consume": 548,
+          "surplus": 337,
+          "buy": 483
+        },
+        {
+          "month": 5,
+          "production": 805,
+          "consume": 453,
+          "surplus": 553,
+          "buy": 863
+        },
+        {
+          "month": 6,
+          "production": 575,
+          "consume": 771,
+          "surplus": 353,
+          "buy": 853
+        },
+        {
+          "month": 7,
+          "production": 565,
+          "consume": 189,
+          "surplus": 459,
+          "buy": 423
+        },
+        {
+          "month": 8,
+          "production": 898,
+          "consume": 415,
+          "surplus": 297,
+          "buy": 913
+        },
+        {
+          "month": 9,
+          "production": 925,
+          "consume": 770,
+          "surplus": 774,
+          "buy": 584
+        },
+        {
+          "month": 10,
+          "production": 643,
+          "consume": 988,
+          "surplus": 999,
+          "buy": 213
+        },
+        {
+          "month": 11,
+          "production": 419,
+          "consume": 812,
+          "surplus": 586,
+          "buy": 816
+        },
+        {
+          "month": 12,
+          "production": 148,
+          "consume": 394,
+          "surplus": 979,
+          "buy": 411
+        }
+      ],
+      "2023": [
+        {
+          "month": 1,
+          "production": 899,
+          "consume": 493,
+          "surplus": 509,
+          "buy": 697
+        },
+        {
+          "month": 2,
+          "production": 363,
+          "consume": 545,
+          "surplus": 952,
+          "buy": 611
+        },
+        {
+          "month": 3,
+          "production": 311,
+          "consume": 737,
+          "surplus": 963,
+          "buy": 975
+        },
+        {
+          "month": 4,
+          "production": 677,
+          "consume": 175,
+          "surplus": 201,
+          "buy": 271
+        },
+        {
+          "month": 5,
+          "production": 565,
+          "consume": 488,
+          "surplus": 216,
+          "buy": 922
+        },
+        {
+          "month": 6,
+          "production": 254,
+          "consume": 565,
+          "surplus": 156,
+          "buy": 429
+        },
+        {
+          "month": 7,
+          "production": 477,
+          "consume": 478,
+          "surplus": 379,
+          "buy": 975
+        },
+        {
+          "month": 8,
+          "production": 186,
+          "consume": 935,
+          "surplus": 471,
+          "buy": 118
+        },
+        {
+          "month": 9,
+          "production": 348,
+          "consume": 671,
+          "surplus": 179,
+          "buy": 150
+        },
+        {
+          "month": 10,
+          "production": 818,
+          "consume": 489,
+          "surplus": 729,
+          "buy": 525
+        },
+        {
+          "month": 11,
+          "production": 649,
+          "consume": 349,
+          "surplus": 141,
+          "buy": 227
+        },
+        {
+          "month": 12,
+          "production": 495,
+          "consume": 378,
+          "surplus": 360,
+          "buy": 400
+        }
+      ]
+    },
+    "month": {
+      "2020": [
+        {
+          "month": 1,
+          "production": 572,
+          "consume": 651,
+          "surplus": 630,
+          "buy": 532
+        },
+        {
+          "month": 2,
+          "production": 678,
+          "consume": 511,
+          "surplus": 819,
+          "buy": 715
+        },
+        {
+          "month": 3,
+          "production": 878,
+          "consume": 839,
+          "surplus": 505,
+          "buy": 633
+        },
+        {
+          "month": 4,
+          "production": 386,
+          "consume": 393,
+          "surplus": 201,
+          "buy": 616
+        },
+        {
+          "month": 5,
+          "production": 691,
+          "consume": 162,
+          "surplus": 914,
+          "buy": 228
+        },
+        {
+          "month": 6,
+          "production": 774,
+          "consume": 827,
+          "surplus": 518,
+          "buy": 736
+        },
+        {
+          "month": 7,
+          "production": 481,
+          "consume": 195,
+          "surplus": 818,
+          "buy": 844
+        },
+        {
+          "month": 8,
+          "production": 942,
+          "consume": 438,
+          "surplus": 902,
+          "buy": 683
+        },
+        {
+          "month": 9,
+          "production": 484,
+          "consume": 718,
+          "surplus": 242,
+          "buy": 968
+        },
+        {
+          "month": 10,
+          "production": 442,
+          "consume": 957,
+          "surplus": 521,
+          "buy": 206
+        },
+        {
+          "month": 11,
+          "production": 174,
+          "consume": 981,
+          "surplus": 719,
+          "buy": 790
+        },
+        {
+          "month": 12,
+          "production": 505,
+          "consume": 608,
+          "surplus": 206,
+          "buy": 692
+        }
+      ],
+      "2021": [
+        {
+          "month": 1,
+          "production": 380,
+          "consume": 601,
+          "surplus": 332,
+          "buy": 975
+        },
+        {
+          "month": 2,
+          "production": 770,
+          "consume": 521,
+          "surplus": 448,
+          "buy": 185
+        },
+        {
+          "month": 3,
+          "production": 199,
+          "consume": 776,
+          "surplus": 691,
+          "buy": 471
+        },
+        {
+          "month": 4,
+          "production": 803,
+          "consume": 234,
+          "surplus": 154,
+          "buy": 292
+        },
+        {
+          "month": 5,
+          "production": 502,
+          "consume": 597,
+          "surplus": 171,
+          "buy": 586
+        },
+        {
+          "month": 6,
+          "production": 748,
+          "consume": 434,
+          "surplus": 339,
+          "buy": 327
+        },
+        {
+          "month": 7,
+          "production": 369,
+          "consume": 204,
+          "surplus": 298,
+          "buy": 909
+        },
+        {
+          "month": 8,
+          "production": 614,
+          "consume": 397,
+          "surplus": 662,
+          "buy": 742
+        },
+        {
+          "month": 9,
+          "production": 643,
+          "consume": 193,
+          "surplus": 413,
+          "buy": 132
+        },
+        {
+          "month": 10,
+          "production": 106,
+          "consume": 962,
+          "surplus": 945,
+          "buy": 966
+        },
+        {
+          "month": 11,
+          "production": 398,
+          "consume": 163,
+          "surplus": 801,
+          "buy": 709
+        },
+        {
+          "month": 12,
+          "production": 826,
+          "consume": 737,
+          "surplus": 880,
+          "buy": 643
+        }
+      ],
+      "2022": [
+        {
+          "month": 1,
+          "production": 666,
+          "consume": 573,
+          "surplus": 896,
+          "buy": 767
+        },
+        {
+          "month": 2,
+          "production": 913,
+          "consume": 526,
+          "surplus": 719,
+          "buy": 353
+        },
+        {
+          "month": 3,
+          "production": 901,
+          "consume": 763,
+          "surplus": 326,
+          "buy": 699
+        },
+        {
+          "month": 4,
+          "production": 432,
+          "consume": 548,
+          "surplus": 337,
+          "buy": 483
+        },
+        {
+          "month": 5,
+          "production": 805,
+          "consume": 453,
+          "surplus": 553,
+          "buy": 863
+        },
+        {
+          "month": 6,
+          "production": 575,
+          "consume": 771,
+          "surplus": 353,
+          "buy": 853
+        },
+        {
+          "month": 7,
+          "production": 565,
+          "consume": 189,
+          "surplus": 459,
+          "buy": 423
+        },
+        {
+          "month": 8,
+          "production": 898,
+          "consume": 415,
+          "surplus": 297,
+          "buy": 913
+        },
+        {
+          "month": 9,
+          "production": 925,
+          "consume": 770,
+          "surplus": 774,
+          "buy": 584
+        },
+        {
+          "month": 10,
+          "production": 643,
+          "consume": 988,
+          "surplus": 999,
+          "buy": 213
+        },
+        {
+          "month": 11,
+          "production": 419,
+          "consume": 812,
+          "surplus": 586,
+          "buy": 816
+        },
+        {
+          "month": 12,
+          "production": 148,
+          "consume": 394,
+          "surplus": 979,
+          "buy": 411
+        }
+      ],
+      "2023": [
+        {
+          "month": 1,
+          "production": 899,
+          "consume": 493,
+          "surplus": 509,
+          "buy": 697
+        },
+        {
+          "month": 2,
+          "production": 363,
+          "consume": 545,
+          "surplus": 952,
+          "buy": 611
+        },
+        {
+          "month": 3,
+          "production": 311,
+          "consume": 737,
+          "surplus": 963,
+          "buy": 975
+        },
+        {
+          "month": 4,
+          "production": 677,
+          "consume": 175,
+          "surplus": 201,
+          "buy": 271
+        },
+        {
+          "month": 5,
+          "production": 565,
+          "consume": 488,
+          "surplus": 216,
+          "buy": 922
+        },
+        {
+          "month": 6,
+          "production": 254,
+          "consume": 565,
+          "surplus": 156,
+          "buy": 429
+        },
+        {
+          "month": 7,
+          "production": 477,
+          "consume": 478,
+          "surplus": 379,
+          "buy": 975
+        },
+        {
+          "month": 8,
+          "production": 186,
+          "consume": 935,
+          "surplus": 471,
+          "buy": 118
+        },
+        {
+          "month": 9,
+          "production": 348,
+          "consume": 671,
+          "surplus": 179,
+          "buy": 150
+        },
+        {
+          "month": 10,
+          "production": 818,
+          "consume": 489,
+          "surplus": 729,
+          "buy": 525
+        },
+        {
+          "month": 11,
+          "production": 649,
+          "consume": 349,
+          "surplus": 141,
+          "buy": 227
+        },
+        {
+          "month": 12,
+          "production": 495,
+          "consume": 378,
+          "surplus": 360,
+          "buy": 400
+        }
+      ]
     }
   },
   "7162408677": {
