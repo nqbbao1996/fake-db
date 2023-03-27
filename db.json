@@ -697,84 +697,2616 @@
     "year": {
       "2020": [
         {
-          "month": 1,
+          "month 1": [
+            {
+              "day": 1,
+              "production": 70,
+              "consume": 69,
+              "surplus": 47,
+              "buy": 57
+            },
+            {
+              "day": 2,
+              "production": 81,
+              "consume": 55,
+              "surplus": 61,
+              "buy": 69
+            },
+            {
+              "day": 3,
+              "production": 96,
+              "consume": 87,
+              "surplus": 48,
+              "buy": 95
+            },
+            {
+              "day": 4,
+              "production": 40,
+              "consume": 53,
+              "surplus": 42,
+              "buy": 13
+            },
+            {
+              "day": 5,
+              "production": 70,
+              "consume": 27,
+              "surplus": 40,
+              "buy": 97
+            },
+            {
+              "day": 6,
+              "production": 95,
+              "consume": 17,
+              "surplus": 39,
+              "buy": 98
+            },
+            {
+              "day": 7,
+              "production": 78,
+              "consume": 32,
+              "surplus": 42,
+              "buy": 26
+            },
+            {
+              "day": 8,
+              "production": 70,
+              "consume": 78,
+              "surplus": 72,
+              "buy": 59
+            },
+            {
+              "day": 9,
+              "production": 72,
+              "consume": 78,
+              "surplus": 40,
+              "buy": 34
+            },
+            {
+              "day": 10,
+              "production": 55,
+              "consume": 72,
+              "surplus": 55,
+              "buy": 37
+            },
+            {
+              "day": 11,
+              "production": 30,
+              "consume": 36,
+              "surplus": 85,
+              "buy": 37
+            },
+            {
+              "day": 12,
+              "production": 27,
+              "consume": 55,
+              "surplus": 51,
+              "buy": 65
+            },
+            {
+              "day": 13,
+              "production": 23,
+              "consume": 97,
+              "surplus": 61,
+              "buy": 88
+            },
+            {
+              "day": 14,
+              "production": 80,
+              "consume": 30,
+              "surplus": 89,
+              "buy": 33
+            },
+            {
+              "day": 15,
+              "production": 49,
+              "consume": 69,
+              "surplus": 20,
+              "buy": 23
+            },
+            {
+              "day": 16,
+              "production": 15,
+              "consume": 80,
+              "surplus": 51,
+              "buy": 17
+            },
+            {
+              "day": 17,
+              "production": 28,
+              "consume": 22,
+              "surplus": 74,
+              "buy": 69
+            },
+            {
+              "day": 18,
+              "production": 32,
+              "consume": 92,
+              "surplus": 43,
+              "buy": 21
+            },
+            {
+              "day": 19,
+              "production": 45,
+              "consume": 33,
+              "surplus": 43,
+              "buy": 21
+            },
+            {
+              "day": 20,
+              "production": 27,
+              "consume": 75,
+              "surplus": 97,
+              "buy": 69
+            },
+            {
+              "day": 21,
+              "production": 89,
+              "consume": 32,
+              "surplus": 55,
+              "buy": 94
+            },
+            {
+              "day": 22,
+              "production": 37,
+              "consume": 40,
+              "surplus": 54,
+              "buy": 70
+            },
+            {
+              "day": 23,
+              "production": 99,
+              "consume": 86,
+              "surplus": 97,
+              "buy": 19
+            },
+            {
+              "day": 24,
+              "production": 26,
+              "consume": 72,
+              "surplus": 54,
+              "buy": 99
+            },
+            {
+              "day": 25,
+              "production": 14,
+              "consume": 47,
+              "surplus": 47,
+              "buy": 94
+            },
+            {
+              "day": 26,
+              "production": 84,
+              "consume": 91,
+              "surplus": 73,
+              "buy": 65
+            },
+            {
+              "day": 27,
+              "production": 42,
+              "consume": 82,
+              "surplus": 45,
+              "buy": 28
+            },
+            {
+              "day": 28,
+              "production": 13,
+              "consume": 76,
+              "surplus": 64,
+              "buy": 43
+            },
+            {
+              "day": 29,
+              "production": 58,
+              "consume": 47,
+              "surplus": 24,
+              "buy": 53
+            },
+            {
+              "day": 30,
+              "production": 25,
+              "consume": 44,
+              "surplus": 88,
+              "buy": 10
+            }
+          ],
           "production": 572,
           "consume": 651,
           "surplus": 630,
           "buy": 532
         },
         {
-          "month": 2,
+          "month 2": [
+            {
+              "day": 1,
+              "production": 34,
+              "consume": 68,
+              "surplus": 54,
+              "buy": 28
+            },
+            {
+              "day": 2,
+              "production": 14,
+              "consume": 38,
+              "surplus": 41,
+              "buy": 16
+            },
+            {
+              "day": 3,
+              "production": 70,
+              "consume": 50,
+              "surplus": 61,
+              "buy": 33
+            },
+            {
+              "day": 4,
+              "production": 61,
+              "consume": 21,
+              "surplus": 71,
+              "buy": 59
+            },
+            {
+              "day": 5,
+              "production": 36,
+              "consume": 24,
+              "surplus": 35,
+              "buy": 50
+            },
+            {
+              "day": 6,
+              "production": 92,
+              "consume": 97,
+              "surplus": 36,
+              "buy": 74
+            },
+            {
+              "day": 7,
+              "production": 95,
+              "consume": 85,
+              "surplus": 68,
+              "buy": 35
+            },
+            {
+              "day": 8,
+              "production": 24,
+              "consume": 84,
+              "surplus": 67,
+              "buy": 82
+            },
+            {
+              "day": 9,
+              "production": 70,
+              "consume": 16,
+              "surplus": 99,
+              "buy": 53
+            },
+            {
+              "day": 10,
+              "production": 93,
+              "consume": 16,
+              "surplus": 79,
+              "buy": 22
+            },
+            {
+              "day": 11,
+              "production": 47,
+              "consume": 45,
+              "surplus": 95,
+              "buy": 72
+            },
+            {
+              "day": 12,
+              "production": 58,
+              "consume": 81,
+              "surplus": 38,
+              "buy": 73
+            },
+            {
+              "day": 13,
+              "production": 53,
+              "consume": 40,
+              "surplus": 61,
+              "buy": 16
+            },
+            {
+              "day": 14,
+              "production": 94,
+              "consume": 67,
+              "surplus": 15,
+              "buy": 94
+            },
+            {
+              "day": 15,
+              "production": 37,
+              "consume": 45,
+              "surplus": 47,
+              "buy": 49
+            },
+            {
+              "day": 16,
+              "production": 61,
+              "consume": 28,
+              "surplus": 46,
+              "buy": 97
+            },
+            {
+              "day": 17,
+              "production": 40,
+              "consume": 93,
+              "surplus": 60,
+              "buy": 62
+            },
+            {
+              "day": 18,
+              "production": 57,
+              "consume": 78,
+              "surplus": 67,
+              "buy": 65
+            },
+            {
+              "day": 19,
+              "production": 25,
+              "consume": 80,
+              "surplus": 65,
+              "buy": 52
+            },
+            {
+              "day": 20,
+              "production": 24,
+              "consume": 34,
+              "surplus": 34,
+              "buy": 67
+            },
+            {
+              "day": 21,
+              "production": 49,
+              "consume": 61,
+              "surplus": 15,
+              "buy": 63
+            },
+            {
+              "day": 22,
+              "production": 48,
+              "consume": 13,
+              "surplus": 17,
+              "buy": 95
+            },
+            {
+              "day": 23,
+              "production": 41,
+              "consume": 25,
+              "surplus": 43,
+              "buy": 22
+            },
+            {
+              "day": 24,
+              "production": 57,
+              "consume": 46,
+              "surplus": 78,
+              "buy": 30
+            },
+            {
+              "day": 25,
+              "production": 10,
+              "consume": 74,
+              "surplus": 84,
+              "buy": 80
+            },
+            {
+              "day": 26,
+              "production": 97,
+              "consume": 40,
+              "surplus": 45,
+              "buy": 10
+            },
+            {
+              "day": 27,
+              "production": 57,
+              "consume": 96,
+              "surplus": 62,
+              "buy": 93
+            },
+            {
+              "day": 28,
+              "production": 23,
+              "consume": 54,
+              "surplus": 61,
+              "buy": 68
+            },
+            {
+              "day": 29,
+              "production": 20,
+              "consume": 81,
+              "surplus": 95,
+              "buy": 44
+            },
+            {
+              "day": 30,
+              "production": 22,
+              "consume": 96,
+              "surplus": 76,
+              "buy": 89
+            }
+          ],
           "production": 678,
           "consume": 511,
           "surplus": 819,
           "buy": 715
         },
         {
-          "month": 3,
+          "month 3": [
+            {
+              "day": 1,
+              "production": 64,
+              "consume": 45,
+              "surplus": 93,
+              "buy": 82
+            },
+            {
+              "day": 2,
+              "production": 96,
+              "consume": 32,
+              "surplus": 36,
+              "buy": 78
+            },
+            {
+              "day": 3,
+              "production": 10,
+              "consume": 14,
+              "surplus": 73,
+              "buy": 93
+            },
+            {
+              "day": 4,
+              "production": 53,
+              "consume": 80,
+              "surplus": 68,
+              "buy": 38
+            },
+            {
+              "day": 5,
+              "production": 74,
+              "consume": 80,
+              "surplus": 64,
+              "buy": 81
+            },
+            {
+              "day": 6,
+              "production": 94,
+              "consume": 82,
+              "surplus": 61,
+              "buy": 15
+            },
+            {
+              "day": 7,
+              "production": 11,
+              "consume": 22,
+              "surplus": 65,
+              "buy": 44
+            },
+            {
+              "day": 8,
+              "production": 88,
+              "consume": 34,
+              "surplus": 99,
+              "buy": 19
+            },
+            {
+              "day": 9,
+              "production": 82,
+              "consume": 12,
+              "surplus": 87,
+              "buy": 84
+            },
+            {
+              "day": 10,
+              "production": 36,
+              "consume": 69,
+              "surplus": 69,
+              "buy": 53
+            },
+            {
+              "day": 11,
+              "production": 11,
+              "consume": 64,
+              "surplus": 97,
+              "buy": 89
+            },
+            {
+              "day": 12,
+              "production": 69,
+              "consume": 97,
+              "surplus": 91,
+              "buy": 28
+            },
+            {
+              "day": 13,
+              "production": 65,
+              "consume": 33,
+              "surplus": 12,
+              "buy": 69
+            },
+            {
+              "day": 14,
+              "production": 39,
+              "consume": 57,
+              "surplus": 63,
+              "buy": 58
+            },
+            {
+              "day": 15,
+              "production": 40,
+              "consume": 24,
+              "surplus": 66,
+              "buy": 50
+            },
+            {
+              "day": 16,
+              "production": 80,
+              "consume": 77,
+              "surplus": 96,
+              "buy": 82
+            },
+            {
+              "day": 17,
+              "production": 72,
+              "consume": 65,
+              "surplus": 18,
+              "buy": 24
+            },
+            {
+              "day": 18,
+              "production": 20,
+              "consume": 50,
+              "surplus": 45,
+              "buy": 57
+            },
+            {
+              "day": 19,
+              "production": 67,
+              "consume": 17,
+              "surplus": 26,
+              "buy": 68
+            },
+            {
+              "day": 20,
+              "production": 84,
+              "consume": 81,
+              "surplus": 12,
+              "buy": 23
+            },
+            {
+              "day": 21,
+              "production": 21,
+              "consume": 94,
+              "surplus": 89,
+              "buy": 44
+            },
+            {
+              "day": 22,
+              "production": 92,
+              "consume": 61,
+              "surplus": 37,
+              "buy": 89
+            },
+            {
+              "day": 23,
+              "production": 38,
+              "consume": 89,
+              "surplus": 74,
+              "buy": 76
+            },
+            {
+              "day": 24,
+              "production": 48,
+              "consume": 21,
+              "surplus": 68,
+              "buy": 11
+            },
+            {
+              "day": 25,
+              "production": 65,
+              "consume": 20,
+              "surplus": 57,
+              "buy": 83
+            },
+            {
+              "day": 26,
+              "production": 92,
+              "consume": 28,
+              "surplus": 64,
+              "buy": 29
+            },
+            {
+              "day": 27,
+              "production": 23,
+              "consume": 38,
+              "surplus": 70,
+              "buy": 96
+            },
+            {
+              "day": 28,
+              "production": 51,
+              "consume": 86,
+              "surplus": 90,
+              "buy": 90
+            },
+            {
+              "day": 29,
+              "production": 36,
+              "consume": 13,
+              "surplus": 16,
+              "buy": 64
+            },
+            {
+              "day": 30,
+              "production": 18,
+              "consume": 73,
+              "surplus": 32,
+              "buy": 26
+            }
+          ],
           "production": 878,
           "consume": 839,
           "surplus": 505,
           "buy": 633
         },
         {
-          "month": 4,
+          "month 4": [
+            {
+              "day": 1,
+              "production": 30,
+              "consume": 92,
+              "surplus": 30,
+              "buy": 14
+            },
+            {
+              "day": 2,
+              "production": 10,
+              "consume": 64,
+              "surplus": 51,
+              "buy": 69
+            },
+            {
+              "day": 3,
+              "production": 84,
+              "consume": 56,
+              "surplus": 76,
+              "buy": 11
+            },
+            {
+              "day": 4,
+              "production": 96,
+              "consume": 25,
+              "surplus": 30,
+              "buy": 30
+            },
+            {
+              "day": 5,
+              "production": 99,
+              "consume": 41,
+              "surplus": 84,
+              "buy": 65
+            },
+            {
+              "day": 6,
+              "production": 56,
+              "consume": 71,
+              "surplus": 22,
+              "buy": 27
+            },
+            {
+              "day": 7,
+              "production": 73,
+              "consume": 34,
+              "surplus": 43,
+              "buy": 31
+            },
+            {
+              "day": 8,
+              "production": 90,
+              "consume": 17,
+              "surplus": 61,
+              "buy": 78
+            },
+            {
+              "day": 9,
+              "production": 33,
+              "consume": 56,
+              "surplus": 72,
+              "buy": 52
+            },
+            {
+              "day": 10,
+              "production": 26,
+              "consume": 15,
+              "surplus": 22,
+              "buy": 90
+            },
+            {
+              "day": 11,
+              "production": 14,
+              "consume": 79,
+              "surplus": 23,
+              "buy": 74
+            },
+            {
+              "day": 12,
+              "production": 19,
+              "consume": 44,
+              "surplus": 43,
+              "buy": 50
+            },
+            {
+              "day": 13,
+              "production": 47,
+              "consume": 25,
+              "surplus": 94,
+              "buy": 76
+            },
+            {
+              "day": 14,
+              "production": 99,
+              "consume": 31,
+              "surplus": 97,
+              "buy": 29
+            },
+            {
+              "day": 15,
+              "production": 23,
+              "consume": 41,
+              "surplus": 72,
+              "buy": 50
+            },
+            {
+              "day": 16,
+              "production": 98,
+              "consume": 54,
+              "surplus": 17,
+              "buy": 91
+            },
+            {
+              "day": 17,
+              "production": 89,
+              "consume": 88,
+              "surplus": 42,
+              "buy": 51
+            },
+            {
+              "day": 18,
+              "production": 27,
+              "consume": 49,
+              "surplus": 25,
+              "buy": 83
+            },
+            {
+              "day": 19,
+              "production": 73,
+              "consume": 85,
+              "surplus": 14,
+              "buy": 91
+            },
+            {
+              "day": 20,
+              "production": 37,
+              "consume": 51,
+              "surplus": 62,
+              "buy": 68
+            },
+            {
+              "day": 21,
+              "production": 70,
+              "consume": 90,
+              "surplus": 16,
+              "buy": 90
+            },
+            {
+              "day": 22,
+              "production": 60,
+              "consume": 88,
+              "surplus": 82,
+              "buy": 95
+            },
+            {
+              "day": 23,
+              "production": 90,
+              "consume": 60,
+              "surplus": 78,
+              "buy": 23
+            },
+            {
+              "day": 24,
+              "production": 92,
+              "consume": 79,
+              "surplus": 47,
+              "buy": 51
+            },
+            {
+              "day": 25,
+              "production": 38,
+              "consume": 66,
+              "surplus": 69,
+              "buy": 20
+            },
+            {
+              "day": 26,
+              "production": 80,
+              "consume": 85,
+              "surplus": 89,
+              "buy": 64
+            },
+            {
+              "day": 27,
+              "production": 16,
+              "consume": 86,
+              "surplus": 73,
+              "buy": 36
+            },
+            {
+              "day": 28,
+              "production": 42,
+              "consume": 65,
+              "surplus": 18,
+              "buy": 35
+            },
+            {
+              "day": 29,
+              "production": 10,
+              "consume": 16,
+              "surplus": 46,
+              "buy": 60
+            },
+            {
+              "day": 30,
+              "production": 59,
+              "consume": 76,
+              "surplus": 95,
+              "buy": 87
+            }
+          ],
           "production": 386,
           "consume": 393,
           "surplus": 201,
           "buy": 616
         },
         {
-          "month": 5,
+          "month 5": [
+            {
+              "day": 1,
+              "production": 15,
+              "consume": 28,
+              "surplus": 23,
+              "buy": 15
+            },
+            {
+              "day": 2,
+              "production": 83,
+              "consume": 17,
+              "surplus": 20,
+              "buy": 28
+            },
+            {
+              "day": 3,
+              "production": 75,
+              "consume": 78,
+              "surplus": 68,
+              "buy": 73
+            },
+            {
+              "day": 4,
+              "production": 45,
+              "consume": 32,
+              "surplus": 81,
+              "buy": 26
+            },
+            {
+              "day": 5,
+              "production": 69,
+              "consume": 82,
+              "surplus": 12,
+              "buy": 65
+            },
+            {
+              "day": 6,
+              "production": 89,
+              "consume": 28,
+              "surplus": 33,
+              "buy": 18
+            },
+            {
+              "day": 7,
+              "production": 33,
+              "consume": 49,
+              "surplus": 85,
+              "buy": 93
+            },
+            {
+              "day": 8,
+              "production": 29,
+              "consume": 58,
+              "surplus": 99,
+              "buy": 81
+            },
+            {
+              "day": 9,
+              "production": 33,
+              "consume": 64,
+              "surplus": 14,
+              "buy": 96
+            },
+            {
+              "day": 10,
+              "production": 13,
+              "consume": 81,
+              "surplus": 89,
+              "buy": 32
+            },
+            {
+              "day": 11,
+              "production": 26,
+              "consume": 46,
+              "surplus": 37,
+              "buy": 10
+            },
+            {
+              "day": 12,
+              "production": 31,
+              "consume": 34,
+              "surplus": 39,
+              "buy": 19
+            },
+            {
+              "day": 13,
+              "production": 60,
+              "consume": 67,
+              "surplus": 49,
+              "buy": 72
+            },
+            {
+              "day": 14,
+              "production": 42,
+              "consume": 73,
+              "surplus": 69,
+              "buy": 54
+            },
+            {
+              "day": 15,
+              "production": 61,
+              "consume": 22,
+              "surplus": 84,
+              "buy": 61
+            },
+            {
+              "day": 16,
+              "production": 78,
+              "consume": 62,
+              "surplus": 18,
+              "buy": 21
+            },
+            {
+              "day": 17,
+              "production": 30,
+              "consume": 26,
+              "surplus": 48,
+              "buy": 80
+            },
+            {
+              "day": 18,
+              "production": 48,
+              "consume": 59,
+              "surplus": 77,
+              "buy": 13
+            },
+            {
+              "day": 19,
+              "production": 67,
+              "consume": 72,
+              "surplus": 16,
+              "buy": 36
+            },
+            {
+              "day": 20,
+              "production": 69,
+              "consume": 94,
+              "surplus": 37,
+              "buy": 97
+            },
+            {
+              "day": 21,
+              "production": 83,
+              "consume": 35,
+              "surplus": 47,
+              "buy": 23
+            },
+            {
+              "day": 22,
+              "production": 55,
+              "consume": 76,
+              "surplus": 34,
+              "buy": 86
+            },
+            {
+              "day": 23,
+              "production": 13,
+              "consume": 21,
+              "surplus": 25,
+              "buy": 46
+            },
+            {
+              "day": 24,
+              "production": 84,
+              "consume": 94,
+              "surplus": 41,
+              "buy": 23
+            },
+            {
+              "day": 25,
+              "production": 74,
+              "consume": 48,
+              "surplus": 18,
+              "buy": 23
+            },
+            {
+              "day": 26,
+              "production": 80,
+              "consume": 68,
+              "surplus": 63,
+              "buy": 50
+            },
+            {
+              "day": 27,
+              "production": 48,
+              "consume": 21,
+              "surplus": 12,
+              "buy": 74
+            },
+            {
+              "day": 28,
+              "production": 79,
+              "consume": 98,
+              "surplus": 99,
+              "buy": 47
+            },
+            {
+              "day": 29,
+              "production": 71,
+              "consume": 48,
+              "surplus": 61,
+              "buy": 73
+            },
+            {
+              "day": 30,
+              "production": 39,
+              "consume": 69,
+              "surplus": 74,
+              "buy": 77
+            }
+          ],
           "production": 691,
           "consume": 162,
           "surplus": 914,
           "buy": 228
         },
         {
-          "month": 6,
+          "month 6": [
+            {
+              "day": 1,
+              "production": 54,
+              "consume": 89,
+              "surplus": 16,
+              "buy": 70
+            },
+            {
+              "day": 2,
+              "production": 86,
+              "consume": 83,
+              "surplus": 75,
+              "buy": 49
+            },
+            {
+              "day": 3,
+              "production": 78,
+              "consume": 34,
+              "surplus": 73,
+              "buy": 98
+            },
+            {
+              "day": 4,
+              "production": 54,
+              "consume": 64,
+              "surplus": 86,
+              "buy": 59
+            },
+            {
+              "day": 5,
+              "production": 44,
+              "consume": 13,
+              "surplus": 82,
+              "buy": 72
+            },
+            {
+              "day": 6,
+              "production": 97,
+              "consume": 98,
+              "surplus": 82,
+              "buy": 12
+            },
+            {
+              "day": 7,
+              "production": 91,
+              "consume": 67,
+              "surplus": 69,
+              "buy": 14
+            },
+            {
+              "day": 8,
+              "production": 73,
+              "consume": 76,
+              "surplus": 38,
+              "buy": 26
+            },
+            {
+              "day": 9,
+              "production": 93,
+              "consume": 57,
+              "surplus": 95,
+              "buy": 45
+            },
+            {
+              "day": 10,
+              "production": 18,
+              "consume": 12,
+              "surplus": 19,
+              "buy": 94
+            },
+            {
+              "day": 11,
+              "production": 73,
+              "consume": 62,
+              "surplus": 18,
+              "buy": 12
+            },
+            {
+              "day": 12,
+              "production": 94,
+              "consume": 82,
+              "surplus": 14,
+              "buy": 27
+            },
+            {
+              "day": 13,
+              "production": 32,
+              "consume": 17,
+              "surplus": 79,
+              "buy": 58
+            },
+            {
+              "day": 14,
+              "production": 83,
+              "consume": 56,
+              "surplus": 68,
+              "buy": 72
+            },
+            {
+              "day": 15,
+              "production": 95,
+              "consume": 16,
+              "surplus": 97,
+              "buy": 53
+            },
+            {
+              "day": 16,
+              "production": 87,
+              "consume": 96,
+              "surplus": 26,
+              "buy": 30
+            },
+            {
+              "day": 17,
+              "production": 83,
+              "consume": 95,
+              "surplus": 52,
+              "buy": 81
+            },
+            {
+              "day": 18,
+              "production": 35,
+              "consume": 39,
+              "surplus": 36,
+              "buy": 31
+            },
+            {
+              "day": 19,
+              "production": 39,
+              "consume": 78,
+              "surplus": 50,
+              "buy": 54
+            },
+            {
+              "day": 20,
+              "production": 64,
+              "consume": 55,
+              "surplus": 89,
+              "buy": 58
+            },
+            {
+              "day": 21,
+              "production": 95,
+              "consume": 62,
+              "surplus": 71,
+              "buy": 41
+            },
+            {
+              "day": 22,
+              "production": 21,
+              "consume": 41,
+              "surplus": 74,
+              "buy": 39
+            },
+            {
+              "day": 23,
+              "production": 48,
+              "consume": 29,
+              "surplus": 85,
+              "buy": 73
+            },
+            {
+              "day": 24,
+              "production": 15,
+              "consume": 10,
+              "surplus": 28,
+              "buy": 69
+            },
+            {
+              "day": 25,
+              "production": 77,
+              "consume": 10,
+              "surplus": 99,
+              "buy": 44
+            },
+            {
+              "day": 26,
+              "production": 49,
+              "consume": 32,
+              "surplus": 18,
+              "buy": 45
+            },
+            {
+              "day": 27,
+              "production": 11,
+              "consume": 87,
+              "surplus": 19,
+              "buy": 76
+            },
+            {
+              "day": 28,
+              "production": 45,
+              "consume": 97,
+              "surplus": 66,
+              "buy": 67
+            },
+            {
+              "day": 29,
+              "production": 33,
+              "consume": 46,
+              "surplus": 46,
+              "buy": 20
+            },
+            {
+              "day": 30,
+              "production": 52,
+              "consume": 88,
+              "surplus": 14,
+              "buy": 72
+            }
+          ],
           "production": 774,
           "consume": 827,
           "surplus": 518,
           "buy": 736
         },
         {
-          "month": 7,
+          "month 7": [
+            {
+              "day": 1,
+              "production": 12,
+              "consume": 18,
+              "surplus": 87,
+              "buy": 71
+            },
+            {
+              "day": 2,
+              "production": 54,
+              "consume": 80,
+              "surplus": 29,
+              "buy": 76
+            },
+            {
+              "day": 3,
+              "production": 70,
+              "consume": 74,
+              "surplus": 17,
+              "buy": 34
+            },
+            {
+              "day": 4,
+              "production": 31,
+              "consume": 79,
+              "surplus": 74,
+              "buy": 81
+            },
+            {
+              "day": 5,
+              "production": 20,
+              "consume": 53,
+              "surplus": 86,
+              "buy": 97
+            },
+            {
+              "day": 6,
+              "production": 50,
+              "consume": 83,
+              "surplus": 22,
+              "buy": 75
+            },
+            {
+              "day": 7,
+              "production": 79,
+              "consume": 47,
+              "surplus": 85,
+              "buy": 70
+            },
+            {
+              "day": 8,
+              "production": 49,
+              "consume": 87,
+              "surplus": 76,
+              "buy": 59
+            },
+            {
+              "day": 9,
+              "production": 40,
+              "consume": 79,
+              "surplus": 35,
+              "buy": 17
+            },
+            {
+              "day": 10,
+              "production": 74,
+              "consume": 96,
+              "surplus": 45,
+              "buy": 16
+            },
+            {
+              "day": 11,
+              "production": 68,
+              "consume": 19,
+              "surplus": 50,
+              "buy": 37
+            },
+            {
+              "day": 12,
+              "production": 83,
+              "consume": 21,
+              "surplus": 20,
+              "buy": 57
+            },
+            {
+              "day": 13,
+              "production": 94,
+              "consume": 85,
+              "surplus": 83,
+              "buy": 88
+            },
+            {
+              "day": 14,
+              "production": 91,
+              "consume": 87,
+              "surplus": 95,
+              "buy": 74
+            },
+            {
+              "day": 15,
+              "production": 90,
+              "consume": 78,
+              "surplus": 43,
+              "buy": 42
+            },
+            {
+              "day": 16,
+              "production": 72,
+              "consume": 80,
+              "surplus": 42,
+              "buy": 31
+            },
+            {
+              "day": 17,
+              "production": 30,
+              "consume": 81,
+              "surplus": 78,
+              "buy": 86
+            },
+            {
+              "day": 18,
+              "production": 26,
+              "consume": 81,
+              "surplus": 37,
+              "buy": 86
+            },
+            {
+              "day": 19,
+              "production": 11,
+              "consume": 64,
+              "surplus": 32,
+              "buy": 90
+            },
+            {
+              "day": 20,
+              "production": 97,
+              "consume": 88,
+              "surplus": 74,
+              "buy": 33
+            },
+            {
+              "day": 21,
+              "production": 24,
+              "consume": 85,
+              "surplus": 76,
+              "buy": 10
+            },
+            {
+              "day": 22,
+              "production": 65,
+              "consume": 69,
+              "surplus": 10,
+              "buy": 21
+            },
+            {
+              "day": 23,
+              "production": 17,
+              "consume": 82,
+              "surplus": 58,
+              "buy": 22
+            },
+            {
+              "day": 24,
+              "production": 28,
+              "consume": 17,
+              "surplus": 54,
+              "buy": 41
+            },
+            {
+              "day": 25,
+              "production": 51,
+              "consume": 23,
+              "surplus": 41,
+              "buy": 76
+            },
+            {
+              "day": 26,
+              "production": 89,
+              "consume": 28,
+              "surplus": 22,
+              "buy": 92
+            },
+            {
+              "day": 27,
+              "production": 94,
+              "consume": 99,
+              "surplus": 98,
+              "buy": 75
+            },
+            {
+              "day": 28,
+              "production": 12,
+              "consume": 89,
+              "surplus": 82,
+              "buy": 94
+            },
+            {
+              "day": 29,
+              "production": 36,
+              "consume": 34,
+              "surplus": 74,
+              "buy": 50
+            },
+            {
+              "day": 30,
+              "production": 81,
+              "consume": 92,
+              "surplus": 73,
+              "buy": 41
+            }
+          ],
           "production": 481,
           "consume": 195,
           "surplus": 818,
           "buy": 844
         },
         {
-          "month": 8,
+          "month 8": [
+            {
+              "day": 1,
+              "production": 14,
+              "consume": 60,
+              "surplus": 31,
+              "buy": 71
+            },
+            {
+              "day": 2,
+              "production": 63,
+              "consume": 58,
+              "surplus": 91,
+              "buy": 87
+            },
+            {
+              "day": 3,
+              "production": 65,
+              "consume": 89,
+              "surplus": 96,
+              "buy": 41
+            },
+            {
+              "day": 4,
+              "production": 22,
+              "consume": 20,
+              "surplus": 25,
+              "buy": 11
+            },
+            {
+              "day": 5,
+              "production": 24,
+              "consume": 59,
+              "surplus": 59,
+              "buy": 73
+            },
+            {
+              "day": 6,
+              "production": 49,
+              "consume": 18,
+              "surplus": 29,
+              "buy": 24
+            },
+            {
+              "day": 7,
+              "production": 45,
+              "consume": 33,
+              "surplus": 20,
+              "buy": 88
+            },
+            {
+              "day": 8,
+              "production": 40,
+              "consume": 18,
+              "surplus": 45,
+              "buy": 79
+            },
+            {
+              "day": 9,
+              "production": 49,
+              "consume": 72,
+              "surplus": 59,
+              "buy": 88
+            },
+            {
+              "day": 10,
+              "production": 67,
+              "consume": 96,
+              "surplus": 30,
+              "buy": 67
+            },
+            {
+              "day": 11,
+              "production": 68,
+              "consume": 97,
+              "surplus": 87,
+              "buy": 28
+            },
+            {
+              "day": 12,
+              "production": 97,
+              "consume": 59,
+              "surplus": 25,
+              "buy": 81
+            },
+            {
+              "day": 13,
+              "production": 18,
+              "consume": 25,
+              "surplus": 19,
+              "buy": 50
+            },
+            {
+              "day": 14,
+              "production": 74,
+              "consume": 62,
+              "surplus": 13,
+              "buy": 37
+            },
+            {
+              "day": 15,
+              "production": 10,
+              "consume": 33,
+              "surplus": 37,
+              "buy": 82
+            },
+            {
+              "day": 16,
+              "production": 51,
+              "consume": 22,
+              "surplus": 36,
+              "buy": 83
+            },
+            {
+              "day": 17,
+              "production": 29,
+              "consume": 93,
+              "surplus": 34,
+              "buy": 54
+            },
+            {
+              "day": 18,
+              "production": 13,
+              "consume": 35,
+              "surplus": 64,
+              "buy": 87
+            },
+            {
+              "day": 19,
+              "production": 29,
+              "consume": 64,
+              "surplus": 52,
+              "buy": 45
+            },
+            {
+              "day": 20,
+              "production": 63,
+              "consume": 69,
+              "surplus": 70,
+              "buy": 30
+            },
+            {
+              "day": 21,
+              "production": 14,
+              "consume": 32,
+              "surplus": 88,
+              "buy": 53
+            },
+            {
+              "day": 22,
+              "production": 33,
+              "consume": 30,
+              "surplus": 21,
+              "buy": 80
+            },
+            {
+              "day": 23,
+              "production": 25,
+              "consume": 36,
+              "surplus": 24,
+              "buy": 85
+            },
+            {
+              "day": 24,
+              "production": 51,
+              "consume": 11,
+              "surplus": 15,
+              "buy": 79
+            },
+            {
+              "day": 25,
+              "production": 67,
+              "consume": 36,
+              "surplus": 28,
+              "buy": 14
+            },
+            {
+              "day": 26,
+              "production": 80,
+              "consume": 32,
+              "surplus": 69,
+              "buy": 59
+            },
+            {
+              "day": 27,
+              "production": 10,
+              "consume": 77,
+              "surplus": 16,
+              "buy": 87
+            },
+            {
+              "day": 28,
+              "production": 35,
+              "consume": 21,
+              "surplus": 87,
+              "buy": 59
+            },
+            {
+              "day": 29,
+              "production": 21,
+              "consume": 73,
+              "surplus": 35,
+              "buy": 94
+            },
+            {
+              "day": 30,
+              "production": 55,
+              "consume": 38,
+              "surplus": 68,
+              "buy": 55
+            }
+          ],
           "production": 942,
           "consume": 438,
           "surplus": 902,
           "buy": 683
         },
         {
-          "month": 9,
+          "month 9": [
+            {
+              "day": 1,
+              "production": 99,
+              "consume": 30,
+              "surplus": 37,
+              "buy": 16
+            },
+            {
+              "day": 2,
+              "production": 31,
+              "consume": 42,
+              "surplus": 82,
+              "buy": 20
+            },
+            {
+              "day": 3,
+              "production": 74,
+              "consume": 37,
+              "surplus": 62,
+              "buy": 66
+            },
+            {
+              "day": 4,
+              "production": 82,
+              "consume": 62,
+              "surplus": 44,
+              "buy": 54
+            },
+            {
+              "day": 5,
+              "production": 61,
+              "consume": 26,
+              "surplus": 14,
+              "buy": 89
+            },
+            {
+              "day": 6,
+              "production": 67,
+              "consume": 28,
+              "surplus": 45,
+              "buy": 19
+            },
+            {
+              "day": 7,
+              "production": 31,
+              "consume": 64,
+              "surplus": 44,
+              "buy": 56
+            },
+            {
+              "day": 8,
+              "production": 70,
+              "consume": 40,
+              "surplus": 18,
+              "buy": 81
+            },
+            {
+              "day": 9,
+              "production": 86,
+              "consume": 81,
+              "surplus": 84,
+              "buy": 82
+            },
+            {
+              "day": 10,
+              "production": 14,
+              "consume": 19,
+              "surplus": 56,
+              "buy": 10
+            },
+            {
+              "day": 11,
+              "production": 13,
+              "consume": 13,
+              "surplus": 91,
+              "buy": 28
+            },
+            {
+              "day": 12,
+              "production": 62,
+              "consume": 76,
+              "surplus": 91,
+              "buy": 76
+            },
+            {
+              "day": 13,
+              "production": 89,
+              "consume": 44,
+              "surplus": 94,
+              "buy": 55
+            },
+            {
+              "day": 14,
+              "production": 17,
+              "consume": 33,
+              "surplus": 17,
+              "buy": 90
+            },
+            {
+              "day": 15,
+              "production": 37,
+              "consume": 64,
+              "surplus": 35,
+              "buy": 46
+            },
+            {
+              "day": 16,
+              "production": 55,
+              "consume": 13,
+              "surplus": 73,
+              "buy": 20
+            },
+            {
+              "day": 17,
+              "production": 93,
+              "consume": 65,
+              "surplus": 41,
+              "buy": 38
+            },
+            {
+              "day": 18,
+              "production": 66,
+              "consume": 34,
+              "surplus": 18,
+              "buy": 18
+            },
+            {
+              "day": 19,
+              "production": 63,
+              "consume": 25,
+              "surplus": 30,
+              "buy": 25
+            },
+            {
+              "day": 20,
+              "production": 88,
+              "consume": 73,
+              "surplus": 63,
+              "buy": 63
+            },
+            {
+              "day": 21,
+              "production": 41,
+              "consume": 41,
+              "surplus": 83,
+              "buy": 22
+            },
+            {
+              "day": 22,
+              "production": 91,
+              "consume": 44,
+              "surplus": 93,
+              "buy": 46
+            },
+            {
+              "day": 23,
+              "production": 93,
+              "consume": 73,
+              "surplus": 32,
+              "buy": 96
+            },
+            {
+              "day": 24,
+              "production": 48,
+              "consume": 11,
+              "surplus": 95,
+              "buy": 79
+            },
+            {
+              "day": 25,
+              "production": 36,
+              "consume": 45,
+              "surplus": 84,
+              "buy": 32
+            },
+            {
+              "day": 26,
+              "production": 21,
+              "consume": 68,
+              "surplus": 90,
+              "buy": 43
+            },
+            {
+              "day": 27,
+              "production": 34,
+              "consume": 52,
+              "surplus": 15,
+              "buy": 51
+            },
+            {
+              "day": 28,
+              "production": 98,
+              "consume": 61,
+              "surplus": 34,
+              "buy": 66
+            },
+            {
+              "day": 29,
+              "production": 44,
+              "consume": 37,
+              "surplus": 74,
+              "buy": 16
+            },
+            {
+              "day": 30,
+              "production": 76,
+              "consume": 76,
+              "surplus": 27,
+              "buy": 74
+            }
+          ],
           "production": 484,
           "consume": 718,
           "surplus": 242,
           "buy": 968
         },
         {
-          "month": 10,
+          "month 10": [
+            {
+              "day": 1,
+              "production": 22,
+              "consume": 71,
+              "surplus": 55,
+              "buy": 31
+            },
+            {
+              "day": 2,
+              "production": 68,
+              "consume": 61,
+              "surplus": 91,
+              "buy": 73
+            },
+            {
+              "day": 3,
+              "production": 98,
+              "consume": 77,
+              "surplus": 99,
+              "buy": 84
+            },
+            {
+              "day": 4,
+              "production": 72,
+              "consume": 55,
+              "surplus": 80,
+              "buy": 63
+            },
+            {
+              "day": 5,
+              "production": 91,
+              "consume": 60,
+              "surplus": 15,
+              "buy": 67
+            },
+            {
+              "day": 6,
+              "production": 93,
+              "consume": 69,
+              "surplus": 73,
+              "buy": 88
+            },
+            {
+              "day": 7,
+              "production": 27,
+              "consume": 53,
+              "surplus": 37,
+              "buy": 42
+            },
+            {
+              "day": 8,
+              "production": 57,
+              "consume": 56,
+              "surplus": 50,
+              "buy": 34
+            },
+            {
+              "day": 9,
+              "production": 72,
+              "consume": 72,
+              "surplus": 99,
+              "buy": 78
+            },
+            {
+              "day": 10,
+              "production": 25,
+              "consume": 35,
+              "surplus": 50,
+              "buy": 81
+            },
+            {
+              "day": 11,
+              "production": 90,
+              "consume": 26,
+              "surplus": 32,
+              "buy": 17
+            },
+            {
+              "day": 12,
+              "production": 84,
+              "consume": 52,
+              "surplus": 52,
+              "buy": 65
+            },
+            {
+              "day": 13,
+              "production": 58,
+              "consume": 65,
+              "surplus": 29,
+              "buy": 89
+            },
+            {
+              "day": 14,
+              "production": 87,
+              "consume": 62,
+              "surplus": 13,
+              "buy": 60
+            },
+            {
+              "day": 15,
+              "production": 24,
+              "consume": 60,
+              "surplus": 47,
+              "buy": 71
+            },
+            {
+              "day": 16,
+              "production": 42,
+              "consume": 86,
+              "surplus": 63,
+              "buy": 42
+            },
+            {
+              "day": 17,
+              "production": 30,
+              "consume": 45,
+              "surplus": 49,
+              "buy": 18
+            },
+            {
+              "day": 18,
+              "production": 41,
+              "consume": 57,
+              "surplus": 83,
+              "buy": 73
+            },
+            {
+              "day": 19,
+              "production": 91,
+              "consume": 23,
+              "surplus": 47,
+              "buy": 84
+            },
+            {
+              "day": 20,
+              "production": 45,
+              "consume": 25,
+              "surplus": 30,
+              "buy": 37
+            },
+            {
+              "day": 21,
+              "production": 58,
+              "consume": 81,
+              "surplus": 17,
+              "buy": 74
+            },
+            {
+              "day": 22,
+              "production": 34,
+              "consume": 56,
+              "surplus": 30,
+              "buy": 81
+            },
+            {
+              "day": 23,
+              "production": 53,
+              "consume": 48,
+              "surplus": 24,
+              "buy": 32
+            },
+            {
+              "day": 24,
+              "production": 21,
+              "consume": 97,
+              "surplus": 32,
+              "buy": 61
+            },
+            {
+              "day": 25,
+              "production": 72,
+              "consume": 31,
+              "surplus": 67,
+              "buy": 60
+            },
+            {
+              "day": 26,
+              "production": 81,
+              "consume": 44,
+              "surplus": 15,
+              "buy": 61
+            },
+            {
+              "day": 27,
+              "production": 95,
+              "consume": 62,
+              "surplus": 11,
+              "buy": 60
+            },
+            {
+              "day": 28,
+              "production": 33,
+              "consume": 10,
+              "surplus": 96,
+              "buy": 95
+            },
+            {
+              "day": 29,
+              "production": 92,
+              "consume": 18,
+              "surplus": 80,
+              "buy": 73
+            },
+            {
+              "day": 30,
+              "production": 76,
+              "consume": 85,
+              "surplus": 80,
+              "buy": 94
+            }
+          ],
           "production": 442,
           "consume": 957,
           "surplus": 521,
           "buy": 206
         },
         {
-          "month": 11,
+          "month 11": [
+            {
+              "day": 1,
+              "production": 81,
+              "consume": 92,
+              "surplus": 38,
+              "buy": 51
+            },
+            {
+              "day": 2,
+              "production": 27,
+              "consume": 67,
+              "surplus": 66,
+              "buy": 36
+            },
+            {
+              "day": 3,
+              "production": 81,
+              "consume": 27,
+              "surplus": 26,
+              "buy": 96
+            },
+            {
+              "day": 4,
+              "production": 10,
+              "consume": 46,
+              "surplus": 63,
+              "buy": 90
+            },
+            {
+              "day": 5,
+              "production": 37,
+              "consume": 41,
+              "surplus": 58,
+              "buy": 45
+            },
+            {
+              "day": 6,
+              "production": 36,
+              "consume": 23,
+              "surplus": 12,
+              "buy": 42
+            },
+            {
+              "day": 7,
+              "production": 61,
+              "consume": 62,
+              "surplus": 11,
+              "buy": 72
+            },
+            {
+              "day": 8,
+              "production": 27,
+              "consume": 77,
+              "surplus": 57,
+              "buy": 47
+            },
+            {
+              "day": 9,
+              "production": 44,
+              "consume": 45,
+              "surplus": 68,
+              "buy": 76
+            },
+            {
+              "day": 10,
+              "production": 71,
+              "consume": 28,
+              "surplus": 12,
+              "buy": 17
+            },
+            {
+              "day": 11,
+              "production": 81,
+              "consume": 10,
+              "surplus": 35,
+              "buy": 74
+            },
+            {
+              "day": 12,
+              "production": 97,
+              "consume": 67,
+              "surplus": 15,
+              "buy": 89
+            },
+            {
+              "day": 13,
+              "production": 87,
+              "consume": 45,
+              "surplus": 19,
+              "buy": 23
+            },
+            {
+              "day": 14,
+              "production": 23,
+              "consume": 57,
+              "surplus": 50,
+              "buy": 13
+            },
+            {
+              "day": 15,
+              "production": 99,
+              "consume": 71,
+              "surplus": 42,
+              "buy": 38
+            },
+            {
+              "day": 16,
+              "production": 83,
+              "consume": 81,
+              "surplus": 81,
+              "buy": 91
+            },
+            {
+              "day": 17,
+              "production": 45,
+              "consume": 70,
+              "surplus": 29,
+              "buy": 18
+            },
+            {
+              "day": 18,
+              "production": 74,
+              "consume": 77,
+              "surplus": 61,
+              "buy": 62
+            },
+            {
+              "day": 19,
+              "production": 77,
+              "consume": 27,
+              "surplus": 14,
+              "buy": 24
+            },
+            {
+              "day": 20,
+              "production": 34,
+              "consume": 20,
+              "surplus": 60,
+              "buy": 19
+            },
+            {
+              "day": 21,
+              "production": 96,
+              "consume": 97,
+              "surplus": 83,
+              "buy": 80
+            },
+            {
+              "day": 22,
+              "production": 95,
+              "consume": 26,
+              "surplus": 89,
+              "buy": 28
+            },
+            {
+              "day": 23,
+              "production": 51,
+              "consume": 36,
+              "surplus": 42,
+              "buy": 76
+            },
+            {
+              "day": 24,
+              "production": 48,
+              "consume": 75,
+              "surplus": 10,
+              "buy": 66
+            },
+            {
+              "day": 25,
+              "production": 59,
+              "consume": 89,
+              "surplus": 99,
+              "buy": 36
+            },
+            {
+              "day": 26,
+              "production": 72,
+              "consume": 28,
+              "surplus": 90,
+              "buy": 51
+            },
+            {
+              "day": 27,
+              "production": 43,
+              "consume": 10,
+              "surplus": 51,
+              "buy": 84
+            },
+            {
+              "day": 28,
+              "production": 33,
+              "consume": 64,
+              "surplus": 16,
+              "buy": 22
+            },
+            {
+              "day": 29,
+              "production": 44,
+              "consume": 94,
+              "surplus": 85,
+              "buy": 50
+            },
+            {
+              "day": 30,
+              "production": 81,
+              "consume": 35,
+              "surplus": 18,
+              "buy": 25
+            }
+          ],
           "production": 174,
           "consume": 981,
           "surplus": 719,
           "buy": 790
         },
         {
-          "month": 12,
+          "month 12": [
+            {
+              "day": 1,
+              "production": 24,
+              "consume": 25,
+              "surplus": 12,
+              "buy": 60
+            },
+            {
+              "day": 2,
+              "production": 89,
+              "consume": 31,
+              "surplus": 23,
+              "buy": 88
+            },
+            {
+              "day": 3,
+              "production": 91,
+              "consume": 68,
+              "surplus": 62,
+              "buy": 46
+            },
+            {
+              "day": 4,
+              "production": 62,
+              "consume": 45,
+              "surplus": 14,
+              "buy": 61
+            },
+            {
+              "day": 5,
+              "production": 11,
+              "consume": 99,
+              "surplus": 26,
+              "buy": 61
+            },
+            {
+              "day": 6,
+              "production": 77,
+              "consume": 53,
+              "surplus": 68,
+              "buy": 53
+            },
+            {
+              "day": 7,
+              "production": 70,
+              "consume": 77,
+              "surplus": 83,
+              "buy": 72
+            },
+            {
+              "day": 8,
+              "production": 49,
+              "consume": 19,
+              "surplus": 31,
+              "buy": 32
+            },
+            {
+              "day": 9,
+              "production": 51,
+              "consume": 98,
+              "surplus": 49,
+              "buy": 71
+            },
+            {
+              "day": 10,
+              "production": 57,
+              "consume": 46,
+              "surplus": 95,
+              "buy": 45
+            },
+            {
+              "day": 11,
+              "production": 32,
+              "consume": 21,
+              "surplus": 27,
+              "buy": 13
+            },
+            {
+              "day": 12,
+              "production": 81,
+              "consume": 26,
+              "surplus": 12,
+              "buy": 13
+            },
+            {
+              "day": 13,
+              "production": 81,
+              "consume": 57,
+              "surplus": 73,
+              "buy": 69
+            },
+            {
+              "day": 14,
+              "production": 97,
+              "consume": 37,
+              "surplus": 63,
+              "buy": 96
+            },
+            {
+              "day": 15,
+              "production": 79,
+              "consume": 69,
+              "surplus": 96,
+              "buy": 13
+            },
+            {
+              "day": 16,
+              "production": 95,
+              "consume": 11,
+              "surplus": 79,
+              "buy": 18
+            },
+            {
+              "day": 17,
+              "production": 16,
+              "consume": 71,
+              "surplus": 49,
+              "buy": 71
+            },
+            {
+              "day": 18,
+              "production": 81,
+              "consume": 19,
+              "surplus": 49,
+              "buy": 92
+            },
+            {
+              "day": 19,
+              "production": 92,
+              "consume": 73,
+              "surplus": 21,
+              "buy": 19
+            },
+            {
+              "day": 20,
+              "production": 73,
+              "consume": 63,
+              "surplus": 91,
+              "buy": 65
+            },
+            {
+              "day": 21,
+              "production": 73,
+              "consume": 77,
+              "surplus": 47,
+              "buy": 10
+            },
+            {
+              "day": 22,
+              "production": 28,
+              "consume": 72,
+              "surplus": 66,
+              "buy": 39
+            },
+            {
+              "day": 23,
+              "production": 72,
+              "consume": 57,
+              "surplus": 63,
+              "buy": 69
+            },
+            {
+              "day": 24,
+              "production": 72,
+              "consume": 63,
+              "surplus": 88,
+              "buy": 73
+            },
+            {
+              "day": 25,
+              "production": 74,
+              "consume": 99,
+              "surplus": 74,
+              "buy": 58
+            },
+            {
+              "day": 26,
+              "production": 39,
+              "consume": 99,
+              "surplus": 13,
+              "buy": 32
+            },
+            {
+              "day": 27,
+              "production": 48,
+              "consume": 14,
+              "surplus": 33,
+              "buy": 53
+            },
+            {
+              "day": 28,
+              "production": 12,
+              "consume": 98,
+              "surplus": 12,
+              "buy": 27
+            },
+            {
+              "day": 29,
+              "production": 70,
+              "consume": 31,
+              "surplus": 45,
+              "buy": 92
+            },
+            {
+              "day": 30,
+              "production": 68,
+              "consume": 48,
+              "surplus": 19,
+              "buy": 46
+            }
+          ],
           "production": 505,
           "consume": 608,
           "surplus": 206,
