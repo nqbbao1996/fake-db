@@ -697,7 +697,7 @@
     "year": {
       "2020": [
         {
-          "month1": [
+          "day": [
             {
               "day": 1,
               "production": 70,
@@ -915,7 +915,7 @@
           "buy": 532
         },
         {
-          "month2": [
+          "day": [
             {
               "day": 1,
               "production": 34,
@@ -1133,7 +1133,7 @@
           "buy": 715
         },
         {
-          "month3": [
+          "day": [
             {
               "day": 1,
               "production": 64,
@@ -1351,7 +1351,7 @@
           "buy": 633
         },
         {
-          "month4": [
+          "day": [
             {
               "day": 1,
               "production": 30,
@@ -1569,7 +1569,7 @@
           "buy": 616
         },
         {
-          "month5": [
+          "day": [
             {
               "day": 1,
               "production": 15,
@@ -1787,7 +1787,7 @@
           "buy": 228
         },
         {
-          "month6": [
+          "day": [
             {
               "day": 1,
               "production": 54,
@@ -2005,7 +2005,7 @@
           "buy": 736
         },
         {
-          "month7": [
+          "day": [
             {
               "day": 1,
               "production": 12,
@@ -2223,7 +2223,7 @@
           "buy": 844
         },
         {
-          "month8": [
+          "day": [
             {
               "day": 1,
               "production": 14,
@@ -2441,7 +2441,7 @@
           "buy": 683
         },
         {
-          "month9": [
+          "day": [
             {
               "day": 1,
               "production": 99,
@@ -2659,7 +2659,7 @@
           "buy": 968
         },
         {
-          "month10": [
+          "day": [
             {
               "day": 1,
               "production": 22,
@@ -2877,7 +2877,7 @@
           "buy": 206
         },
         {
-          "month11": [
+          "day": [
             {
               "day": 1,
               "production": 81,
@@ -3095,7 +3095,7 @@
           "buy": 790
         },
         {
-          "month12": [
+          "day": [
             {
               "day": 1,
               "production": 24,
